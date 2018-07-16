@@ -1,0 +1,20 @@
+{
+  "name": "vue-cli-plugin-pug",
+  "version": "1.0.2",
+  "description": "Vue CLI 3 plugin to add pug templating to your components",
+  "main": "index.js",
+  "dependencies": {
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "pug"
+  ],
+  "author": "benji dalton",
+  "license": "ISC"
+}
