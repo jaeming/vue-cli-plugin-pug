@@ -15,7 +15,3 @@ You can now start using pug template in your components:
     h1 Hello World!
 </template>
 ```
-
-Note: this plugin currently only supports pug templating within vue templates through `pug-plain-loader`. It does not configure for raw `.pug` files [^1]. 
-
-[^1]: if there is any interest in this use case, feel free to make an issue on the github repo or submit a PR Feedback is welcomed.
