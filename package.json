@@ -4,9 +4,9 @@
   "description": "Vue CLI 3 plugin to add pug templating to your components and compilation of .pug template files",
   "main": "index.js",
   "dependencies": {
-    "pug": "^2.0.3",
+    "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
-    "raw-loader": "^0.5.1"
+    "raw-loader": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
