@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-pug",
-  "version": "2.0",
+  "version": "2.0.0",
   "description": "Vue CLI 3 plugin to add pug templating to your components and compilation of .pug template files",
   "main": "index.js",
   "dependencies": {
